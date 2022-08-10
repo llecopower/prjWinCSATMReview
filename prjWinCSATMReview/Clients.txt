@@ -1,0 +1,12 @@
+﻿CL111
+Bill Gates
+Windows
+Active
+CL222
+Steve Jobs
+Apple
+Apple
+CL333
+Alex Vilvert
+Alex
+Active
